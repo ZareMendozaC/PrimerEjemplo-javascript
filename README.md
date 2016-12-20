@@ -12,4 +12,5 @@
 - sumar numero1 y numero2 y almacenar en resultado
 - presionar calcular
 - mostrar resultado
+
 *fin*
