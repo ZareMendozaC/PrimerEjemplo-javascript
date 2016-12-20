@@ -5,6 +5,7 @@
 - numero1
 - numero2
 - resultado
+
 ## Proceso
 - pedir numero1
 - pedir numero2
